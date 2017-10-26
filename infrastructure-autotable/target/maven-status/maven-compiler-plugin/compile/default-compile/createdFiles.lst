@@ -1,0 +1,13 @@
+cn/gov/zcy/mof/autotable/service/AutoTableReadService.class
+cn/gov/zcy/mof/autotable/conf/AutoTableStrategyScanner.class
+cn/gov/zcy/mof/autotable/model/AutoTableHistory.class
+cn/gov/zcy/mof/autotable/manager/DaoManager.class
+cn/gov/zcy/mof/autotable/annotation/FinanceTableShard.class
+cn/gov/zcy/mof/autotable/dao/AutoTableHistoryDao.class
+cn/gov/zcy/mof/autotable/conf/AutoBean.class
+cn/gov/zcy/mof/autotable/annotation/AutoTableStrategy.class
+cn/gov/zcy/mof/autotable/schedule/AutoTableJobs.class
+cn/gov/zcy/mof/autotable/conf/AnnotationScanner.class
+cn/gov/zcy/mof/autotable/conf/AppContextUtil.class
+cn/gov/zcy/mof/autotable/model/AutoTable.class
+cn/gov/zcy/mof/autotable/dao/AutoTableDao.class

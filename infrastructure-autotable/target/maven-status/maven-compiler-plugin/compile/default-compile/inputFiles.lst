@@ -1,0 +1,13 @@
+/Users/huangshang/git/infrastructure/infrastructure-kit/infrastructure-autotable/src/main/java/cn/gov/zcy/mof/autotable/conf/AppContextUtil.java
+/Users/huangshang/git/infrastructure/infrastructure-kit/infrastructure-autotable/src/main/java/cn/gov/zcy/mof/autotable/schedule/AutoTableJobs.java
+/Users/huangshang/git/infrastructure/infrastructure-kit/infrastructure-autotable/src/main/java/cn/gov/zcy/mof/autotable/conf/AnnotationScanner.java
+/Users/huangshang/git/infrastructure/infrastructure-kit/infrastructure-autotable/src/main/java/cn/gov/zcy/mof/autotable/conf/AutoBean.java
+/Users/huangshang/git/infrastructure/infrastructure-kit/infrastructure-autotable/src/main/java/cn/gov/zcy/mof/autotable/model/AutoTableHistory.java
+/Users/huangshang/git/infrastructure/infrastructure-kit/infrastructure-autotable/src/main/java/cn/gov/zcy/mof/autotable/manager/DaoManager.java
+/Users/huangshang/git/infrastructure/infrastructure-kit/infrastructure-autotable/src/main/java/cn/gov/zcy/mof/autotable/service/AutoTableReadService.java
+/Users/huangshang/git/infrastructure/infrastructure-kit/infrastructure-autotable/src/main/java/cn/gov/zcy/mof/autotable/annotation/AutoTableStrategy.java
+/Users/huangshang/git/infrastructure/infrastructure-kit/infrastructure-autotable/src/main/java/cn/gov/zcy/mof/autotable/dao/AutoTableHistoryDao.java
+/Users/huangshang/git/infrastructure/infrastructure-kit/infrastructure-autotable/src/main/java/cn/gov/zcy/mof/autotable/conf/AutoTableStrategyScanner.java
+/Users/huangshang/git/infrastructure/infrastructure-kit/infrastructure-autotable/src/main/java/cn/gov/zcy/mof/autotable/dao/AutoTableDao.java
+/Users/huangshang/git/infrastructure/infrastructure-kit/infrastructure-autotable/src/main/java/cn/gov/zcy/mof/autotable/annotation/FinanceTableShard.java
+/Users/huangshang/git/infrastructure/infrastructure-kit/infrastructure-autotable/src/main/java/cn/gov/zcy/mof/autotable/model/AutoTable.java
